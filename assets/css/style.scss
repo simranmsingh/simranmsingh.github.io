@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Make the sidebar title non-clickable */
+header h1 a {
+  pointer-events: none;   /* clicks do nothing */
+  cursor: default;        /* normal arrow cursor */
+  text-decoration: none;  /* no underline on hover */
+  color: inherit;         /* keep same color */
+}
