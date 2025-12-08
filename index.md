@@ -7,7 +7,7 @@ title:
 
 _PhD Candidate, Department of Political Science, Columbia University_
 
-[CV](assets/simran_singh_CV.pdf)
+[CV](/assets/simran_singh_CV.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?user=1ToaUjoAAAAJ&hl=en)
 
