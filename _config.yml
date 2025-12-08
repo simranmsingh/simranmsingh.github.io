@@ -3,7 +3,7 @@ description: "Simran Singh"
 theme: jekyll-theme-minimal
 
 # Optional extras:
-logo: /assets/img/profile.jpg   # if you add one later
+logo: img/simran_singh.jpeg   # if you add one later
 show_downloads: false
 github:
   is_user_page: true
