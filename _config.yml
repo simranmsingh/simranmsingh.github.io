@@ -1,9 +1,10 @@
 title: "Simran Singh"
-description: "Simran Singh"
+description:  >
+  <em>PhD Candidate, Department of Political Science, Columbia University</em><br/>
+  <a href="/assets/simran_singh_CV.pdf">CV</a> ·
+  <a href="https://scholar.google.com/YOUR-SCHOLAR-ID">Google Scholar</a>
 theme: jekyll-theme-minimal
 
 # Optional extras:
 logo: /img/simran_singh.jpeg   # if you add one later
 show_downloads: false
-github:
-  is_user_page: true
