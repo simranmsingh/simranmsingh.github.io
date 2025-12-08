@@ -1,10 +1,10 @@
 title: "Simran Singh"
 description:  >
-  <p style="margin-bottom:0px"> PhD Candidate </p>
+  <p style="margin-bottom:0px"> <br>PhD Candidate</br> </p>
   <p style="margin-bottom:0px"> <a target="_blank" href="https://polisci.columbia.edu/content/simran-singh"> Department of Political Science</a></p>
   <p> Columbia University </p>
   <p> <a target="_blank" href="/assets/simran_singh_CV.pdf">Curriculum Vitae</a></p>
-  <p> <a target="_blank" href="https://scholar.google.com/citations?user=1ToaUjoAAAAJ">Google Scholar</a></p>
+  <p style="margin-bottom:0px"> <a target="_blank" href="https://scholar.google.com/citations?user=1ToaUjoAAAAJ">Google Scholar</a></p>
   <p> ss6627 [at] columbia.edu </p>
 theme: jekyll-theme-minimal
 
