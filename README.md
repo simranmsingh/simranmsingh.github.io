@@ -1,2 +1,2 @@
 # simranmsingh.github.io
-academic website
+Academic website
