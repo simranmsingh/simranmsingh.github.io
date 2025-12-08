@@ -9,3 +9,5 @@ theme: jekyll-theme-minimal
 # Optional extras:
 logo: /img/simran_singh.jpeg   # if you add one later
 show_downloads: false
+github:
+  is_user_page: false
