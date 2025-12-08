@@ -22,7 +22,3 @@ Teaching Assistant (Fall 2024) **Politics of International Economic Relations**,
 Teaching Assistant (Spring 2024) **Introduction to International Relations**, Professor Jayme Schlesinger
 
 Co-Instructor (Fall 2023) **Inside the Situation Room**, Hillary Clinton and Dean Keren Yarhi-Milo
-
-## Contact
-
-ss6627 [at] columbia.edu
