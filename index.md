@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study **International Political Economy**, with a focus on state-firm relations and the political and social effects of FDI in host countries. In my dissertation project, I develop a theory of social policy delegation by host country governments to foreign firms. I apply my theory to substantive policy areas including labor force feminization and decarbonization.
+Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study **International Political Economy**, with a focus on state-firm relations and the political and social effects of FDI in host countries. In my dissertation project, I develop a theory of social policy delegation by host country governments to foreign firms. I apply my theory to substantive policy areas including labor force feminization and decarbonization.
 
 ## Research
 
