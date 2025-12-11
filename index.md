@@ -11,7 +11,7 @@ Welcome to my website. I am a fourth-year PhD candidate in the Department of Pol
 [Under review](https://osf.io/preprints/osf/6ue7n_v3). With Calvin Thrall and Noah Zucker
 
 **Private pocketbooks for public goods: Policy delegation through mandated CSR**.   
-Work in Progress.
+Work in progress.
 
 ## Teaching
 
