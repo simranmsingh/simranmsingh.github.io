@@ -5,6 +5,8 @@ title:
 
 Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study **International Political Economy**, with a focus on state-firm relations, the distributional effects of FDI, and the politics of climate change, with a number of my projects set in India. 
 
+I currently serve as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
+
 ## Research
 
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
