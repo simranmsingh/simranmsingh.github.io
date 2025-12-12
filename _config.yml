@@ -7,7 +7,7 @@ description:  >
   <p style="margin-bottom:0px"> <a target="_blank" href="https://scholar.google.com/citations?user=1ToaUjoAAAAJ">Google Scholar</a></p>
   <p> ss6627 [at] columbia.edu </p>
 theme: jekyll-theme-minimal
-layout: default
+google_analytics: G-J1PWJF9ZCE
 
 # Optional extras:
 logo: /img/simran_singh.jpeg   # if you add one later
