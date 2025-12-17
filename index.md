@@ -12,7 +12,7 @@ I currently serve as the Political Science Department's [Lead Teaching Fellow](h
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
 [Under review](https://osf.io/preprints/osf/6ue7n_v3). With Calvin Thrall and Noah Zucker
 
-**Private pocketbooks for public goods: Policy delegation through mandated CSR**.   
+**Private Pocketbooks for Public Goods: Advancing the State's Social Aims through Mandated CSR**.   
 Work in progress.
 
 ## Teaching
