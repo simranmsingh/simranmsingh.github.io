@@ -5,7 +5,7 @@ title:
 
 Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study how climate change is reshaping the international political economy, with a focus on firms and gender. 
 
-My dissertation project examines how exogenous shifts in women’s property rights affect adaptation to climate change. In the context of India, I study whether increasing women’s influence over assets changes how households respond to environmental risk, especially where access to informal insurance and political protection is unevenly distributed.
+My dissertation project examines how exogenous shifts in women’s property rights affect adaptation to climate change. In the context of India, I study whether increasing women’s influence over assets changes how households respond to environmental risk, especially where men and women have uneven access to informal insurance and political networks.
 
 I currently serve as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
