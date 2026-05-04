@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study **International Political Economy**, with a focus on the politics of climate change, firms, and gender, with a number of my projects set in India. 
+Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study how climate change is reshaping the international political economy, with a focus on firms and gender. My dissertation project examines how gendered property rights shape adjustment to climate change. I focus on women’s formal ownership of land, asking whether increased influence over productive assets changes **whether and how** households adapt to environmental risk.
 
 I currently serve as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
