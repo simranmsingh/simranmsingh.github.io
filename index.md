@@ -26,14 +26,11 @@ Work in progress.
 
 ## Teaching
 
-**Business and Politics** - Teaching Assistant (Spring 2026)   
+**Business and Politics** - Teaching Assistant (Spring 2025, Spring 2026)   
 Professor Calvin Thrall
 
 **Rise of the Modern World Economy** - Teaching Assistant (Fall 2025)   
 Professor Jeffry Frieden
-
-**Business and Politics** - Teaching Assistant (Spring 2025)   
-Professor Calvin Thrall
 
 **Politics of International Economic Relations** - Teaching Assistant (Fall 2024)   
 Professor Jeffry Frieden
