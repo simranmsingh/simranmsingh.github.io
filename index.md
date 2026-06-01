@@ -7,7 +7,7 @@ Welcome to my website. I am a fourth-year PhD candidate in the Department of Pol
 
 My dissertation project examines how exogenous shifts in women’s property rights affect adaptation to climate change. In the context of India, I study whether increasing women’s influence over assets changes how households respond to environmental risk, especially where men and women have uneven access to informal insurance and political networks.
 
-I currently serve as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
+In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
 ## Research
 
