@@ -20,7 +20,7 @@ With Jeffry Frieden and Robert Stavins
 **Grounds for Change: Gendered Asset Ownership and Climate Adaptation**.
 Work in progress.
 
-**Private Pocketbooks for Public Goods: Advancing the State's Social Aims through Mandated CSR**.   
+**Hunting for Good Will: The Strategic Geography of CSR**.   
 Work in progress.
 
 
