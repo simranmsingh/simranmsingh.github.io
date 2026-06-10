@@ -14,7 +14,7 @@ In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
 [Under review](https://osf.io/preprints/osf/6ue7n_v3). With Calvin Thrall and Noah Zucker
 
-**Hunting for Good Will: The Strategic Geography of CSR**.   
+**Hunting for Goodwill: The Strategic Geography of CSR**.   
 Work in progress.
 
 **An Instrumental Choice: The Political Economy of Carbon Pricing**.
