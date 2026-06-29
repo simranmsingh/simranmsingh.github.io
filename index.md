@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-Welcome to my website. I am a fourth-year PhD candidate in the Department of Political Science at Columbia University. I study how climate change is reshaping the international political economy, with a focus on firms and gender. 
+Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study how climate change is reshaping the international political economy, with a focus on firms and gender. 
 
 My dissertation project examines how exogenous shifts in women’s property rights affect adaptation to climate change. In the context of India, I study whether increasing women’s influence over assets changes how households respond to environmental risk, especially where men and women have uneven access to informal insurance and political networks.
 
