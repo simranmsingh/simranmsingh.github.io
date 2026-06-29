@@ -12,7 +12,7 @@ In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow
 ## Research
 
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
-[Revise and Resubmit](https://github.com/simranmsingh/simranmsingh.github.io/blob/main/assets/greener_pastures.pdf), **Journal of Politics**. With Calvin Thrall and Noah Zucker
+[Revise and Resubmit](https://simranmsingh.github.io/assets/greener_pastures.pdf), **Journal of Politics**. With Calvin Thrall and Noah Zucker
 
 **Hunting for Goodwill: The Strategic Geography of CSR**.   
 Work in progress.
