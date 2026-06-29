@@ -12,7 +12,7 @@ In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow
 ## Research
 
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
-[Revise and Resubmit](https://osf.io/preprints/osf/6ue7n_v3), **Journal of Politics**__. With Calvin Thrall and Noah Zucker
+[Revise and Resubmit](https://osf.io/preprints/osf/6ue7n_v3), **Journal of Politics**. With Calvin Thrall and Noah Zucker
 
 **Hunting for Goodwill: The Strategic Geography of CSR**.   
 Work in progress.
