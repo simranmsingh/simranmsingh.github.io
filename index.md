@@ -5,7 +5,7 @@ title:
 
 Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study international political economy, with a focus on state-firm relations and the environment. 
 
-My dissertation project examines how citizens leverage firms’ need for regulatory approval to secure local public goods. Using novel data from public hearings in India’s environmental clearance process linked to firms’ corporate social responsibility reports, I study when communities redirect distributive claims from the state toward firms and under what conditions firms use mandated social spending to respond to those demands.
+My dissertation project examines how citizens leverage firms’ need for regulatory approval to secure local public goods. Using novel data from public hearings in India’s environmental clearance process linked to firms’ corporate social responsibility reports, I study when communities redirect distributive claims from the state toward firms and the conditions under which firms respond to those demands.
 
 In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
