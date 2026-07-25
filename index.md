@@ -3,9 +3,9 @@ layout: default
 title:
 ---
 
-Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study how climate change is reshaping the international political economy, with a focus on firms and gender. 
+Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study international political economy, with a focus on state-firm relations and the environment. 
 
-My dissertation project examines how exogenous shifts in women’s property rights affect adaptation to climate change. In the context of India, I study whether increasing women’s influence over assets changes how households respond to environmental risk, especially where men and women have uneven access to informal insurance and political networks.
+My dissertation project examines how citizens leverage firms’ need for regulatory approval to secure local public goods. Using novel data from public hearings in India’s environmental clearance process linked to firms’ corporate social responsibility reports, I study when communities redirect distributive claims from the state toward firms and under what conditions firms use mandated social spending to respond to those demands.
 
 In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
@@ -14,7 +14,7 @@ In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow
 **Greener Pastures? A Labor Market Theory of Climate Governance**.    
 [Revise and Resubmit](https://simranmsingh.github.io/assets/greener_pastures.pdf), **Journal of Politics**. With Calvin Thrall and Noah Zucker
 
-**Hunting for Goodwill: The Strategic Geography of CSR**.   
+**Public Claims, Private Provision: Environmental Hearings and Corporate Social Responsibility in India**.   
 Work in progress.
 
 **An Instrumental Choice: The Political Economy of Carbon Pricing**.
