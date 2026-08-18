@@ -20,9 +20,6 @@ Work in progress.
 **An Instrumental Choice: The Political Economy of Carbon Pricing**.
 With Jeffry Frieden and Robert Stavins
 
-**Grounds for Change: Gendered Asset Ownership and Climate Adaptation**.
-Work in progress.
-
 
 ## Teaching
 
