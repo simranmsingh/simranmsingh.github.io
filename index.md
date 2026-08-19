@@ -14,6 +14,7 @@ In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow
 
 **Public Claims, Private Provision: Environmental Hearings and Corporate Social Responsibility in India**.   
 Work in progress. 
+
 _Abstract_: Do citizens leverage firms’ need for regulatory approval to secure local public goods? Using novel data from public hearings in India’s environmental clearance process linked to firms’ corporate social responsibility reports, I study when communities redirect distributive claims from the state toward firms and the conditions under which firms respond to those demands.
 
 **An Instrumental Choice: The Political Economy of Carbon Pricing**.
