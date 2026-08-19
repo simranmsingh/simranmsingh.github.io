@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study international political economy, with a focus on how global state-firm relations change in response to global economic and political transformations. I am particularly interested in understanding who in society wins and loses when the bargaining dynamic between the state and firms evolves, and how those repositioned groups respond in making compensatory claims upon the state and firms.
+Welcome to my website. I am a fifth-year PhD candidate in the Department of Political Science at Columbia University. I study international political economy, with a focus on how global state-firm relations change in response to global economic and political transformations. I am particularly interested in understanding who in society wins and loses when the bargaining dynamic between the state and firms evolves, and the channels through which those repositioned groups respond make compensatory claims upon the state and firms.
 
 In 2025-26, I served as the Political Science Department's [Lead Teaching Fellow](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/), in collaboration with Columbia's Center for Teaching and Learning. 
 
